@@ -20,7 +20,7 @@ Or install it yourself as:
 
 ## Usage
 ```ruby
-@copyright = SilvaViewTool::Renderer.copyright('Rudinei Silva', 'All rights reserved')TODO: Write usage instructions here
+@copyright = SilvaViewTool::Renderer.copyright('Rudinei Silva', 'All rights reserved')
 ```
 ## Development
 
